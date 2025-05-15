@@ -1,6 +1,0 @@
-{
-  "parent": "gregtech:item/material_sets/shiny/wire_fine",
-  "textures": {
-    "layer2": "gregtech:items/material_sets/bright/wire_fine_overlay"
-  }
-}
